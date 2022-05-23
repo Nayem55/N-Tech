@@ -1,0 +1,99 @@
+[
+    {
+        "name": "ASUS TUF Dash 15",
+        "id":154815121,
+        "img":"https://m.media-amazon.com/images/I/81Tx3MJBkSL._AC_UL320_.jpg",
+        "price":949,
+        "ratings": 4,
+        "quantity": 0
+
+        
+    },
+    
+    {
+        "name": "ASUS Chromebook Flip C433",
+        "id":125756482,
+        "img":"https://m.media-amazon.com/images/I/81cpLDD+SPL._AC_UL320_.jpg",
+        "price":790,
+        "ratings": 4,
+        "quantity": 0
+
+        
+    },
+    
+    {
+        "name": "Acer Chromebook Spin 311",
+        "id":254789453,
+        "img":"https://m.media-amazon.com/images/I/71c5W9NxN5L._AC_UL320_.jpg",
+        "price":740,
+        "ratings": 5,
+        "quantity": 0
+
+        
+    },
+    
+    {
+        "name": "ASUS ZenBook Pro",
+        "id": 547256474,
+        "img":"https://m.media-amazon.com/images/I/81AKWKpG4TL._AC_UL320_.jpg",
+        "price":560,
+        "ratings": 4,
+        "quantity": 0
+
+        
+    },
+    
+    {
+        "name": "ASUS ROG Strix Scar 15",
+        "id": 456254125,
+        "img":"https://m.media-amazon.com/images/I/71IA+MeLP2L._AC_UL320_.jpg",
+        "price":990,
+        "ratings": 4,
+        "quantity": 0
+
+        
+    },
+    
+    {
+        "name": "ASUS ZenBook",
+        "id": 154786326,
+        "img":"https://m.media-amazon.com/images/I/81MfMZUposL._AC_UL320_.jpg",
+        "price":760,
+        "ratings": 5,
+        "quantity": 0
+
+        
+    },
+    
+    {
+        "name": "Acer Spin 5",
+        "id": 125632577,
+        "img":"https://m.media-amazon.com/images/I/61LHj2XV1wL._AC_UL320_.jpg",
+        "price":540,
+        "ratings": 4,
+        "quantity": 0
+
+        
+    },
+    
+    {
+        "name": "Acer Predator Helios 300 PH315-54-760S",
+        "id": 762145358,
+        "img":"https://m.media-amazon.com/images/I/71nz3cIcFOL._AC_UL320_.jpg",
+        "price":849,
+        "ratings": 4,
+        "quantity": 0
+        
+    },
+    
+    {
+        "name": "Acer Nitro 5 AN515-55-53E5",
+        "id": 784365029,
+        "img":"https://m.media-amazon.com/images/I/81bc8mA3nKL._AC_UL320_.jpg",
+        "price":780,
+        "ratings": 5,
+        "quantity": 0
+        
+    }
+    
+]
